@@ -2,5 +2,5 @@
 
 ## 🖼️ Dashboard Preview
 
-<img src="Images/ipl -performance dashboard .png" width="900">
+<img src="image/ipl -performance dashboard .png" width="900">
 ---
